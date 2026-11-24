@@ -1,4 +1,4 @@
-<!-- gf-brief source=ab050b24a13ccef3708efd496e8ac405467c7df51a65b2496add22ae73a94bfe written=2026-11-24T04:57:34+03:00 -->
+<!-- gf-brief source=1f20308763106008b3317272baf58693200edcd8e548346236c3107aa60ff0e6 written=2026-11-24T04:59:34+03:00 -->
 # Tiger Wok
 
 ## What it is
