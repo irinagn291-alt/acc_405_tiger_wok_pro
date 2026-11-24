@@ -1,0 +1,19 @@
+tent1 · 5/5 served (goal 5) · control pocket · 52s left · patch
+tent2 · 4/4 served (goal 3) · control garden · 40s left · patch
+tent3 · 5/5 served (goal 3) · control noodle · 28s left · patch
+tent4 · 6/6 served (goal 4) · control garden · 33s left · patch
+ferry1 · 5/5 served (goal 3) · control forest · 40s left · patch
+ferry2 · 6/6 served (goal 4) · control bean · 39s left · patch
+ferry3 · 6/6 served (goal 4) · control crunch · 35s left · patch
+ferry4 · 6/6 served (goal 5) · control ferrybowl · 35s left · patch
+rain1 · 6/6 served (goal 4) · control gingerline · 33s left · patch
+rain2 · 6/6 served (goal 4) · control ricebowl · 23s left · patch
+rain3 · 6/6 served (goal 5) · control twin · 30s left · patch
+rain4 · 7/7 served (goal 5) · control rainferry · 20s left · patch
+lights1 · 6/6 served (goal 4) · control reverse · 25s left · patch
+lights2 · 6/6 served (goal 5) · control skewer · 27s left · patch
+lights3 · 7/7 served (goal 5) · control rainferry · 17s left · patch
+lights4 · 8/8 served (goal 6) · control finale · 10s left · patch
+Plate clear charges waste and time. Simultaneous landings follow release order.
+A flying dumpling frees high heat for the noodles. Both land on ticket #1.
+PASS: 16 fixed queues, all stock, all thresholds, all patch conditions and repeatability. Late order sequence, overlapping flights, duplicate prevention, pause and waste verified in Kitchen.swift.

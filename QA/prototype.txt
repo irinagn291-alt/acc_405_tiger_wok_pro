@@ -1,0 +1,1 @@
+PASS: same-pan flip, high/low heat 3:1, no heat in flight, exactly one order after repeated input.

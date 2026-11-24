@@ -1,0 +1,59 @@
+TigerWok fullscreen app target · Xcode 27.2 (27B52)
+
+Simulator Debug · arm64 · 3 inputs
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/WokApp.swift
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/Kitchen.swift
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/CounterView.swift
+
+Simulator Debug · x86_64 · 3 inputs
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/WokApp.swift
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/Kitchen.swift
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/CounterView.swift
+
+.build/simulator-final/Build/Products/Debug-iphonesimulator/TigerWok.app
+Compiled Assets.car; 4 locales (126 keys each); 6 WAV effects.
+Campaign SHA-256: 9a13c351b6e4f7487b7a78ba50c1e154f7243d6085e0347ee21d8e5b82411ce6
+
+Device Release · arm64 · 3 inputs
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/WokApp.swift
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/Kitchen.swift
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/CounterView.swift
+
+.build/device-final/Build/Products/Release-iphoneos/TigerWok.app
+Compiled Assets.car; 4 locales (126 keys each); 6 WAV effects.
+Campaign SHA-256: 9a13c351b6e4f7487b7a78ba50c1e154f7243d6085e0347ee21d8e5b82411ce6
+
+Device Release code excludes QA flags, telemetry and campaign driver.
+
+iPad UI test app · arm64 · 3 inputs
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/WokApp.swift
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/Kitchen.swift
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/CounterView.swift
+
+iPad UI test app · x86_64 · 3 inputs
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/WokApp.swift
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/Kitchen.swift
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/CounterView.swift
+
+.build/iPad/Build/Products/Debug-iphonesimulator/TigerWok.app
+Compiled Assets.car; 4 locales (126 keys each); 6 WAV effects.
+Campaign SHA-256: 9a13c351b6e4f7487b7a78ba50c1e154f7243d6085e0347ee21d8e5b82411ce6
+
+iPhone UI test app · arm64 · 3 inputs
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/WokApp.swift
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/Kitchen.swift
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/CounterView.swift
+
+iPhone UI test app · x86_64 · 3 inputs
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/WokApp.swift
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/Kitchen.swift
+/Users/belzephyrus/Documents/gambling_factory/output/concepts23nov/acc_405_tiger_wok/Sources/CounterView.swift
+
+.build/iPhone/Build/Products/Debug-iphonesimulator/TigerWok.app
+Compiled Assets.car; 4 locales (126 keys each); 6 WAV effects.
+Campaign SHA-256: 9a13c351b6e4f7487b7a78ba50c1e154f7243d6085e0347ee21d8e5b82411ce6
+
+Current source SHA-256
+d3d91b7c0c44e1e0585d1cfc1d4ce494081a71ffcc42e2ee2d2db8c646b5ce66  WokApp.swift
+ddcadc559a276791dd3daa908911d0d2c85088a8687f2fc3ce9bc7571282d949  Kitchen.swift
+61605af649e1039888ff1d962c010ce8c4088a1df06be88ec193db1aa9c3f465  CounterView.swift

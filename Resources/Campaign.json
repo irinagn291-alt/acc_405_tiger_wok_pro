@@ -1,0 +1,38 @@
+{
+  "recipes": [
+    {"id":"pocket","foods":["dumpling"],"ordered":false},
+    {"id":"garden","foods":["noodles","greens"],"ordered":false},
+    {"id":"leaf","foods":["greens"],"ordered":false},
+    {"id":"noodle","foods":["dumpling","noodles"],"ordered":false},
+    {"id":"forest","foods":["mushroom"],"ordered":false},
+    {"id":"bean","foods":["tofu"],"ordered":false},
+    {"id":"crunch","foods":["crisp","greens"],"ordered":false},
+    {"id":"ferrybowl","foods":["noodles","mushroom","tofu"],"ordered":false},
+    {"id":"gingerline","foods":["ginger","greens"],"ordered":true},
+    {"id":"ricebowl","foods":["rice","mushroom","tofu"],"ordered":true},
+    {"id":"twin","foods":["dumpling","dumpling"],"ordered":false},
+    {"id":"rainferry","foods":["mushroom","ginger","rice"],"ordered":true},
+    {"id":"lantern","foods":["rice","tofu"],"ordered":true},
+    {"id":"reverse","foods":["tofu","rice"],"ordered":true},
+    {"id":"skewer","foods":["greens","crisp","mushroom"],"ordered":true},
+    {"id":"finale","foods":["ginger","tofu","crisp"],"ordered":true}
+  ],
+  "shifts": [
+    {"id":"tent1","market":0,"seconds":75,"pans":2,"slots":1,"preview":false,"minimum":5,"badgeStreak":5,"badgeLosses":0,"control":"pocket","foods":["dumpling","noodles","greens"],"orders":["pocket","garden","pocket","garden","pocket"]},
+    {"id":"tent2","market":0,"seconds":57,"pans":2,"slots":1,"preview":false,"minimum":3,"badgeStreak":4,"badgeLosses":1,"control":"garden","foods":["dumpling","noodles","greens"],"orders":["garden","leaf","pocket","garden"]},
+    {"id":"tent3","market":0,"seconds":54,"pans":2,"slots":1,"preview":false,"minimum":3,"badgeStreak":4,"badgeLosses":0,"control":"noodle","foods":["dumpling","noodles","greens"],"orders":["noodle","garden","leaf","noodle","pocket"]},
+    {"id":"tent4","market":0,"seconds":59,"pans":2,"slots":1,"preview":false,"minimum":4,"badgeStreak":5,"badgeLosses":0,"control":"garden","foods":["dumpling","noodles","greens"],"orders":["garden","pocket","leaf","noodle","garden","leaf"]},
+    {"id":"ferry1","market":1,"seconds":57,"pans":3,"slots":2,"preview":false,"minimum":3,"badgeStreak":4,"badgeLosses":1,"control":"forest","foods":["dumpling","noodles","greens","mushroom"],"orders":["forest","garden","forest","pocket","forest"]},
+    {"id":"ferry2","market":1,"seconds":63,"pans":3,"slots":2,"preview":false,"minimum":4,"badgeStreak":4,"badgeLosses":0,"control":"bean","foods":["dumpling","noodles","greens","mushroom","tofu"],"orders":["bean","forest","garden","bean","pocket","forest"]},
+    {"id":"ferry3","market":1,"seconds":65,"pans":3,"slots":2,"preview":false,"minimum":4,"badgeStreak":5,"badgeLosses":1,"control":"crunch","foods":["noodles","greens","mushroom","tofu","crisp"],"orders":["crunch","bean","forest","crunch","leaf","garden"]},
+    {"id":"ferry4","market":1,"seconds":76,"pans":3,"slots":2,"preview":false,"minimum":5,"badgeStreak":5,"badgeLosses":0,"control":"ferrybowl","foods":["noodles","greens","mushroom","tofu","crisp"],"orders":["ferrybowl","forest","crunch","bean","ferrybowl","garden"]},
+    {"id":"rain1","market":2,"seconds":59,"pans":3,"slots":2,"preview":false,"minimum":4,"badgeStreak":5,"badgeLosses":0,"control":"gingerline","foods":["noodles","greens","mushroom","tofu","ginger"],"orders":["gingerline","forest","gingerline","bean","leaf","garden"]},
+    {"id":"rain2","market":2,"seconds":65,"pans":3,"slots":2,"preview":false,"minimum":4,"badgeStreak":5,"badgeLosses":1,"control":"ricebowl","foods":["greens","mushroom","tofu","crisp","ginger","rice"],"orders":["ricebowl","gingerline","forest","ricebowl","bean","crunch"]},
+    {"id":"rain3","market":2,"seconds":69,"pans":3,"slots":2,"preview":false,"minimum":5,"badgeStreak":5,"badgeLosses":0,"control":"twin","foods":["dumpling","noodles","greens","mushroom","tofu","rice"],"orders":["twin","ricebowl","garden","twin","leaf","pocket"]},
+    {"id":"rain4","market":2,"seconds":78,"pans":3,"slots":2,"preview":false,"minimum":5,"badgeStreak":6,"badgeLosses":1,"control":"rainferry","foods":["dumpling","noodles","greens","mushroom","tofu","ginger","rice"],"orders":["rainferry","twin","gingerline","ricebowl","ferrybowl","rainferry","pocket"]},
+    {"id":"lights1","market":3,"seconds":66,"pans":3,"slots":2,"preview":true,"minimum":4,"badgeStreak":5,"badgeLosses":1,"control":"reverse","foods":["noodles","greens","mushroom","tofu","crisp","rice"],"orders":["lantern","reverse","leaf","lantern","reverse","garden"]},
+    {"id":"lights2","market":3,"seconds":72,"pans":3,"slots":2,"preview":true,"minimum":5,"badgeStreak":5,"badgeLosses":0,"control":"skewer","foods":["greens","mushroom","tofu","crisp","ginger","rice"],"orders":["skewer","reverse","forest","lantern","skewer","gingerline"]},
+    {"id":"lights3","market":3,"seconds":74,"pans":3,"slots":2,"preview":true,"minimum":5,"badgeStreak":6,"badgeLosses":0,"control":"rainferry","foods":["dumpling","greens","mushroom","tofu","crisp","ginger","rice"],"orders":["rainferry","skewer","twin","reverse","crunch","lantern","bean"]},
+    {"id":"lights4","market":3,"seconds":93,"pans":3,"slots":2,"preview":true,"minimum":6,"badgeStreak":7,"badgeLosses":0,"control":"finale","foods":["dumpling","greens","mushroom","tofu","crisp","ginger","rice"],"orders":["finale","reverse","skewer","ricebowl","rainferry","twin","finale","lantern"]}
+  ]
+}

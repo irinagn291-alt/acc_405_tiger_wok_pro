@@ -1,0 +1,5 @@
+On a fresh install, open First Dinner from the Stall. Follow the prompts to sear, flip and serve the first dumpling, then move the noodles to low heat and cook the greens on high heat for the second ticket. The timer stays at 75 seconds through these two guided tickets, then starts for the final three. Serve all five dishes to clear the shift. The receipt shows the dishes served, waste, longest streak and patch result or condition.
+
+From the Stall, open Markets to replay an unlocked shift or view a saved result. After serving a dish and finishing a campaign attempt, open the Recipe tin, flip a learned recipe card and start its untimed, single-ticket practice. Free shift unlocks after all 16 campaign shifts are cleared.
+
+The game uses touch input and requests no runtime permissions. Progress and the sound preference are stored locally. AVFoundation plays bundled sound effects on physical devices when sound is enabled. The app has no sign-in, backend, cloud sync, analytics, advertising, in-app purchases or Game Center integration.

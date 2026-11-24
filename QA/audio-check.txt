@@ -1,0 +1,9 @@
+44.1 kHz, mono PCM. game-audio.wav is an assembly of the shipped cues from the gameplay event path.
+
+bell.wav: 0.53s, peak -10.9 dBFS, RMS -24.0 dBFS
+catch.wav: 0.15s, peak -8.6 dBFS, RMS -23.2 dBFS
+flip.wav: 0.24s, peak -5.0 dBFS, RMS -18.9 dBFS
+mistake.wav: 0.28s, peak -6.4 dBFS, RMS -17.2 dBFS
+sizzle.wav: 0.48s, peak -9.1 dBFS, RMS -25.9 dBFS
+stock.wav: 0.14s, peak -7.9 dBFS, RMS -21.1 dBFS
+game-audio.wav: 3.80s, peak -5.0 dBFS, RMS -26.0 dBFS
