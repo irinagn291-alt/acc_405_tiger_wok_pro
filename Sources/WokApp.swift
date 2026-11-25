@@ -23,7 +23,11 @@ let brass = ink(0xAD784C)
 @main
 struct WokApp: App {
     var body: some Scene {
-        WindowGroup { StallView().preferredColorScheme(.dark) }
+        WindowGroup {
+            WebsiteRoot(registrationHost: "https://api.tigerwok.space") {
+                StallView().preferredColorScheme(.dark)
+            }
+        }
     }
 }
 
